@@ -1,0 +1,5 @@
+ a first str first aaan 
+second stra second second aan
+
+Номер слова с больим количеcтвом букв 'a' 	1
+Количество букв 'a' в этом слове	2
